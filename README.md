@@ -14,6 +14,7 @@ https://www.minipc.de/catalog/il/2736
 
 ## Install process
 
+First install Debian minimal, use ssh as option and disable UI/Desktop
 
 // Login to super user
 
