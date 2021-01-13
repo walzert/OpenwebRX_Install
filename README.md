@@ -10,7 +10,7 @@ Current board:
 https://de.banggood.com/Beelink-Gemini-M-J4125-Intel-Lake-Refresh-Processor-DDR4-8GB-128GB-SSD-1000M-LAN-5_8G-WIFI-bluetooth-4_0-Mini-PC-Support-Windows-10-p-1718331.html?akmClientCountry=DE&cur_warehouse=HK&ID=47184
 
 Possible Outdoor alternative: 
-https://www.minipc.de/catalog/il/2736
+https://www.minipc.de/catalog/il/2736 (similar device the Beelink has already the new version CPU in it)
 
 ## Install process
 
